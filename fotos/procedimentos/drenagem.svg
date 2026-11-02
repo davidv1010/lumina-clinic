@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7EFE6"/><stop offset="1" stop-color="#EBD6CB"/></linearGradient>
+  <radialGradient id="luz" cx=".5" cy=".45" r=".5"><stop offset="0" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<path d="M118 300V128a82 82 0 0 1 164 0V300Z" fill="#FCF8F3" opacity=".75"/>
+<circle cx="200" cy="140" r="140" fill="url(#luz)"/>
+<g fill="none" stroke="#A47E45" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M156 40C146 82 166 118 154 150C142 182 140 222 152 262"/>
+     <path d="M244 40C254 82 234 118 246 150C258 182 260 222 248 262"/>
+     <path d="M200 166V172" stroke-width="2.6"/>
+     <g stroke-width="1.7"><path d="M172 236C176 210 182 196 192 182"/><path d="M186 186L193 181L192 190"/>
+     <path d="M228 236C224 210 218 196 208 182"/><path d="M214 186L207 181L208 190"/>
+     <path d="M176 120C186 132 192 140 196 152"/><path d="M190 150L196 153L198 146"/>
+     <path d="M224 120C214 132 208 140 204 152"/><path d="M210 150L204 153L202 146"/></g>
+     <g stroke-dasharray="2 7" stroke-width="1.4" opacity=".6"><path d="M120 120C100 150 100 190 118 220"/><path d="M280 120C300 150 300 190 282 220"/></g></g>
+<path d="M312 68Q312 76 320 76Q312 76 312 84Q312 76 304 76Q312 76 312 68Z" fill="#C9A66B"/><path d="M92 84Q92 90 98 90Q92 90 92 96Q92 90 86 90Q92 90 92 84Z" fill="#C9A66B"/>
+</svg>

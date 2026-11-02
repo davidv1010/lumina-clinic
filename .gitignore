@@ -1,0 +1,4 @@
+# Configuração local do editor/preview
+.claude/
+# Fotos originais (o site usa as versões otimizadas em fotos/)
+fotos-originais/
